@@ -20,14 +20,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/AromalSurendran47">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/AromalSurendran47">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Aromal Surendran](https://github.com/aromaldevelop). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Aromal Surendran](https://github.com/AromalSurendran47). Thanks!
 
 ## Built With
 
