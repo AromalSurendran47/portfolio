@@ -1,9 +1,9 @@
 <h2 align="center">
   Ajesh Portfolio<br/>
-  <a href="https://rankontop.in/" target="_blank">soumyajit.tech</a>
+  <a href="https://rankontop.in/" target="_blank"></a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <!-- <img alt="Demo" src="./Images/readme-img1.png" /> -->
 </div>
 
 <br/>
